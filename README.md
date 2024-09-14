@@ -10,7 +10,7 @@
 ## 🚀 About Me:
 - 🤖 **An AI/ML enthusiast with hands-on experience in Machine Learning, Deep Learning, and NLP, currently leading AI/ML efforts at ACM UET Lahore.**
   
-- 🤝 Currently working as a content writer at [ReadersHub]([url](https://www.readershub.site/?m=1)), where I contribute to creating insightful and engaging content across various topics.
+- 🤝 Currently working as a content writer at **[ReadersHub]([url](https://www.readershub.site/?m=1))**, where I contribute to creating insightful and engaging content across various topics.
 
 - 🔬 In addition, I am a researcher at DSL Lab KICS, where I am involved in exploring cutting-edge developments in Artificial Intelligence and Machine Learning.
 
