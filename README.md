@@ -25,7 +25,7 @@
   <a href="https://twitter.com/mehmoodulhaq1040" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmoodulhaq" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/mehmoodulhaq570" target="blank">
+  <a href="https://linkedin.com/in/mehmodulhaq570" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmoodulhaq" height="30" width="40" />
   </a>
   <a href="https://fb.com/mehmoodulhaq" target="blank">
