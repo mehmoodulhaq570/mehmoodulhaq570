@@ -58,6 +58,8 @@
   </a>
 </p>
 
+[![An image of @mehmoodulhaq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehmoodulhaq)](https://holopin.io/@mehmoodulhaq)
+
 ## Profile Statistics:
 Stats|Streak|Languages
 |---|---|---|
