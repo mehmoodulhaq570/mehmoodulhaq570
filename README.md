@@ -63,8 +63,8 @@
 [![An image of @mehmoodulhaq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehmoodulhaq)](https://holopin.io/@mehmoodulhaq)
 
 ## Profile Statistics:
-**Stats|Languages**
-|---|---|---|
+Stats|Languages
+|---|---|
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmoodulhaq570&theme=gruvbox)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehmoodulhaq570&theme=gruvbox)|
 
 ## Profile Views:
