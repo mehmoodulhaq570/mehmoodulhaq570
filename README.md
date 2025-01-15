@@ -109,31 +109,14 @@
 
 <br/>  
 
+## Hoplin Badges for Open Source Contributions:
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+[![An image of @mehmoodulhaq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehmoodulhaq)](https://holopin.io/@mehmoodulhaq)
 
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 
 Footer
 © 2023 GitHub, Inc.
