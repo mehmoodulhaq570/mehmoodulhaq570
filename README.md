@@ -106,7 +106,7 @@
 
 
 ## Github Stats  
-![mehmoodulhaq570's Stats](https://github-readme-stats.vercel.app/api?username=mehmoodulhaq570&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mehmoodulhaq570&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
