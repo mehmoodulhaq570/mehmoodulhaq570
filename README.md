@@ -7,7 +7,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=AI/ML+Enthusiast+;Content+Writer;Student+at+UET+Lahore;AI/ML+Lead+at+ACM+UET+Lahore;Researcher+at+DSL+Lab+KICS;Computer+Engineer;" alt="Typing SVG" /></a>
   </p>
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:746/0*9flkTXWp3huf2k21.jpg" align="center" style="width: 50%; height: auto;" />
+<img src="https://miro.medium.com/v2/resize:fit:746/0*9flkTXWp3huf2k21.jpg" align="center" style="width: 70%; height: auto;" />
 
 </div>  
   
