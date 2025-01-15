@@ -106,13 +106,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mehmoodulhaq570&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![mehmoodulhaq570's Stats](https://github-readme-stats.vercel.app/api?username=mehmoodulhaq570&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
 <br/>  
 
-## Hoplin Badges for Open Source Contributions:
-
-[![An image of @mehmoodulhaq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehmoodulhaq)](https://holopin.io/@mehmoodulhaq)
 
 
 <br />
