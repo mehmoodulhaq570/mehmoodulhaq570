@@ -6,72 +6,134 @@
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=AI/ML+Enthusiast+;Content+Writer;Student+at+UET+Lahore;AI/ML+Lead+at+ACM+UET+Lahore;Researcher+at+DSL+Lab+KICS;Computer+Engineer;" alt="Typing SVG" /></a>
   </p>
-
-## 🚀 About Me:
-- 🤖 **An AI/ML enthusiast with hands-on experience in Machine Learning, Deep Learning, and NLP, currently leading AI/ML efforts at ACM UET Lahore.**
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:746/0*9flkTXWp3huf2k21.jpg" align="center" style="width: 100%" />
+</div>  
   
-- 🤝 Currently working as a content writer at [ReadersHub]([url](https://www.readershub.site/?m=1)), where I contribute to creating insightful and engaging content across various topics.
 
-- 🔬 In addition, I am a researcher at DSL Lab KICS, where I am involved in exploring cutting-edge developments in Artificial Intelligence and Machine Learning.
+### <div align="center">I'm Mehmood, 🤖 an AI/ML enthusiast with hands-on experience in Machine Learning, Deep Learning, and NLP. 🚀</div>  
+  
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Natural Language Processing (NLP).**
+- 🔭 I’m currently working on [Smart Fire Extinguisher](https://github.com/mehmoodulhaq570/Smart-Fire-Extinguisher.git)  
+  
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, and AI.**
+- 🌱 I’m currently learning AWS and GenAI  
+  
 
-- 📫 How to reach me **mehmoodulhaq1040@gmail.com**
+- ❓ Ask me about anything related to Machine Learning and Deep Learning  
+  
 
-## 🔗 Connect with me:
-<p align="left">
-  <a href="https://twitter.com/mehmoodulhaq1040" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmoodulhaq" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/mehmodulhaq570" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmoodulhaq" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mehmoodulhaq" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehmoodulhaq" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mehmood02_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmoodulhaq" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/mehmoodulhaq1040" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehmoodulhaq" height="30" width="40" />
-  </a>
-</p>
+- ⚡ Fun fact: I don't need sleep; I need better validation data.  
+  
 
-## Languages and Tools:
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
-  </a>
-</p>
+<br/>  
 
-## Hoplin Badges for Open Source Contributions:
 
-[![An image of @mehmoodulhaq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehmoodulhaq)](https://holopin.io/@mehmoodulhaq)
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-## Profile Statistics:
-Stats|Languages
-|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmoodulhaq570&theme=gruvbox)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehmoodulhaq570&theme=gruvbox)|
 
-## Profile Views:
-<p align="center"> 
-    <img src="https://profile-counter.glitch.me/mehmoodulhaq570/count.svg" />
-  Views<br>
-</p>
+
+### Frontend  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/mehmoodulhaq570" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/mehmoodulhaq570" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/mehmoodulhaq570" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/mehmodulhaq570" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/malik.mehmood02" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/mehmood02_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/mehmoodulhaq570" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/mehmoodulhaq570" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mehmoodulhaq570&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 Footer
 © 2023 GitHub, Inc.
