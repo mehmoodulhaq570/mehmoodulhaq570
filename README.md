@@ -15,10 +15,10 @@
 ### <div align="center">I'm Mehmood, 🤖 an AI/ML enthusiast with hands-on experience in Machine Learning, Deep Learning, and NLP. 🚀</div>  
   
 
-- 🔭 I’m currently working on [Smart Fire Extinguisher](https://github.com/mehmoodulhaq570/Smart-Fire-Extinguisher.git)  
+- 🔭 I’m currently working on [Smart Contact Manager](https://github.com/mehmoodulhaq570/Smart-Contact-Manager.git)
   
 
-- 🌱 I’m currently learning AWS and GenAI  
+- 🌱 I’m currently learning AWS and GenAI and Java with Springboot
   
 
 - ❓ Ask me about anything related to Machine Learning and Deep Learning  
