@@ -15,13 +15,13 @@
 ### <div align="center">I'm Mehmood, 🤖 an AI/ML enthusiast with hands-on experience in Machine Learning, Deep Learning, and NLP. 🚀</div>  
   
 
-- 🔭 I’m currently working on [Smart Contact Manager](https://github.com/mehmoodulhaq570/Smart-Contact-Manager.git)
+- 🔭 I’m currently working on [SeoulMate](https://github.com/mehmoodulhaq570/SeoulMate.git), [WifiX](https://github.com/mehmoodulhaq570/WifiX.git), and [Datalyzer](https://github.com/mehmoodulhaq570/Datalyzer.git)
   
 
-- 🌱 I’m currently learning AWS and GenAI and Java with Springboot
+- 🌱 I’m currently learning AWS, GenAI, FastAPI, Docs Building, Vue.js and etc.
   
 
-- ❓ Ask me about anything related to Machine Learning and Deep Learning  
+- ❓ Ask me about anything related to Machine Learning,  Deep Learning Python, and Development
   
 
 - ⚡ Fun fact: I don't need sleep; I need better validation data.  
