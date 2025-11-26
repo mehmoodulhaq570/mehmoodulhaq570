@@ -74,12 +74,6 @@ I build intelligent systems, develop ML/DL pipelines, work on Computer Vision pr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mehmoodulhaq570&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
----
-
 # 🌐 **Connect With Me**
 <div align="center">
   <a href="https://github.com/mehmoodulhaq570"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
