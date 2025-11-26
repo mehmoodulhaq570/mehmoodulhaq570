@@ -80,7 +80,10 @@ I build intelligent systems, develop ML/DL pipelines, work on Computer Vision pr
   <a href="https://linkedin.com/in/mehmodulhaq570"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://twitter.com/mehmoodulhaq570"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://dev.to/mehmoodulhaq570"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
-  <a href="https://kaggle.com/mehmoodulhaq570"><img src="https://skillicons.dev/icons?i=kaggle" height="40"/></a>
+  <a href="https://kaggle.com/mehmoodulhaq570" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
+</a>
+
   <a href="https://instagram.com/mehmood02_"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="https://medium.com/mehmoodulhaq570"><img src="https://skillicons.dev/icons?i=medium" height="40"/></a>
 </div>
