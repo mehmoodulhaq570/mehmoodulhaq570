@@ -74,15 +74,23 @@ I build intelligent systems, develop ML/DL pipelines, work on Computer Vision pr
 
 ---
 
-# 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <div align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mehmoodulhaq570&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmoodulhaq570&theme=tokyonight&hide_border=true" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=mehmoodulhaq570&theme=tokyonight&hide_border=true" />
+
   <br/>
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmoodulhaq570&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ---
 
