@@ -26,7 +26,7 @@ I build intelligent systems, develop ML/DL pipelines, work on Computer Vision pr
 - 🚀 **SeoulMate** – AI-powered Personalized Companion  
 - 📡 **WifiX** – WiFi Analyzer & Strength Prediction Tool  
 - 📊 **Datalyzer** – Dataset Cleaning, Analysis & Visualization Toolkit  
-- 🤖 **Smart Fire Extinguishing System (FYP)** – YOLOv9 + Sensors + Real-Time Control  
+- 🤖 **Smart Fire Extinguishing System (FYP)** – YOLOv11 + Sensors + Real-Time Control  
 - 🌞 **Solar Forecasting Research** – Clear-sky modeling & ML forecasting  
 
 ---
