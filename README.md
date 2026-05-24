@@ -12,7 +12,7 @@
       <p>Lahore, Pakistan</p>
     </td>
     <td width="72%" valign="top">
-      <h1>Hi, I'm Mehmood Ul Haq &#128075;</h1>
+      <h1>Hola amigo! Cómo estás? 👋</h1>
       <p><em>Building intelligent systems that connect research, data science, and real-world engineering.</em></p>
       <p>
         <img src="https://img.shields.io/badge/Python-0E75B6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
