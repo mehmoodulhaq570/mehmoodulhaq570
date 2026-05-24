@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
       </p>
       <p align="center">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" alt="Funny coder animation" />
+        <img src="./assets/funny-coder.gif" width="500" alt="Funny coder animation" />
       </p>
     </td>
   </tr>
@@ -78,8 +78,8 @@
 | **NESPAK HR Portal Redesign** | Modernizing HR portal workflows and interface | C#, ASP.NET, SQL Server |
 | **Energy Forecasting Using ML** | Short, medium, and long-term energy demand forecasting | Python, ML |
 | **Smart Fire System** | Fire detection with YOLOv11, sensors, and control logic | Computer Vision, IoT |
-| **Stock Price Prediction** | ML models for stock trend prediction and analysis | Python, Data Science |
-| **Student Performance Predictor** | Predicting academic performance using classification models | Python, ML |
+| **SeoulMate** | AI-powered K-drama recommendation and personalized companion system | AI, NLP, Recommender System |
+| **WifiX** | Same-network file transfer app with WiFi-focused workflow | React, Python, FastAPI |
 | **Datalyzer** | Dataset cleaning, analysis, and visualization toolkit | Python, Analytics |
 
 ---
