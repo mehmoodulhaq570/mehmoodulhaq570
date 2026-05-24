@@ -25,39 +25,36 @@
 
 ---
 
-## About
+## &#128075; About
 
-I am a **Master's student in Data Science**, an **AI/ML engineer**, and a **frontend developer** who enjoys building practical systems from idea to interface.
+**Master's in Data Science. AI/ML Engineer. Frontend Developer.**
 
-My work sits at the intersection of **machine learning, computer vision, data analytics, and web development**. I like turning research ideas into working products, building clean user interfaces, and creating tools that help people understand and use data more effectively.
+I build AI tools, data apps, computer vision systems, and clean frontend interfaces.
 
-Currently, I am working on AI/data-driven projects including a **NESPAK-related project**, computer vision systems, forecasting research, and frontend experiences for real-world use cases.
+## &#9889; What I Do
 
-## What I Do
-
-- Build machine learning and deep learning workflows for real-world problems
-- Develop computer vision systems using modern detection models such as YOLO
-- Create frontend interfaces with React, Vue, Tailwind CSS, and JavaScript
-- Work on data cleaning, visualization, analysis, and forecasting
-- Write technical documentation and research-focused content
-- Connect models with usable applications through APIs and product thinking
+- AI/ML and data science projects
+- Computer vision with YOLO
+- Frontend development with React, Vue, and Tailwind
+- Dashboards, data cleaning, and visualization
+- APIs with Python and FastAPI
 
 ---
 
-## Current Work
+## &#128640; Current Work
 
 | Project | What it is | Focus |
 | --- | --- | --- |
-| **NESPAK-related Project** | Data-driven/frontend work for a practical engineering use case | Frontend, Data, Product |
-| **Smart Fire Extinguishing System** | Real-time fire detection and response using YOLOv11, sensors, and control logic | Computer Vision, IoT |
-| **Solar Forecasting Research** | Clear-sky modeling and ML-based solar energy forecasting | Data Science, Forecasting |
-| **Datalyzer** | Toolkit for dataset cleaning, analysis, and visualization | Python, Data Analytics |
-| **WifiX** | WiFi analyzer and signal strength prediction tool | ML, Networking |
-| **SeoulMate** | AI-powered personalized companion concept | AI, NLP |
+| **NESPAK Project** | Practical data/frontend work | Frontend, Data |
+| **Smart Fire System** | Fire detection with YOLOv11 and sensors | CV, IoT |
+| **Solar Forecasting** | ML-based solar prediction | Data Science |
+| **Datalyzer** | Dataset cleaning and visualization | Python |
+| **WifiX** | WiFi signal analysis and prediction | ML |
+| **SeoulMate** | AI companion concept | AI, NLP |
 
 ---
 
-## Tech Stack
+## &#128736; Tech Stack
 
 ### Data Science & AI
 
@@ -79,39 +76,45 @@ Currently, I am working on AI/data-driven projects including a **NESPAK-related 
 
 ---
 
-## Areas I Am Growing In
+## &#128218; Growing In
 
-- Advanced data science and applied machine learning
-- MLOps, model deployment, and cloud-based AI systems
-- Generative AI and LLM-powered applications
-- Production-grade frontend development
-- Research writing, technical documentation, and reproducible experiments
+- Advanced data science
+- MLOps and deployment
+- Generative AI
+- Production frontend development
 
-## Ask Me About
+## &#128172; Ask Me About
 
-- Data Science and Machine Learning
-- Deep Learning and Computer Vision
-- YOLO-based detection systems
-- React, Vue, Tailwind CSS, and frontend development
-- Python, FastAPI, and ML APIs
-- Research projects, documentation, and technical writing
+- Data Science
+- Machine Learning
+- Computer Vision
+- React / Vue / Tailwind
+- Python / FastAPI
 
 ---
 
-## GitHub Overview
+## &#128202; GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmoodulhaq570&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmoodulhaq570&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
+  <a href="https://github.com/mehmoodulhaq570">
+    <img src="https://github-readme-stats.vercel.app/api?username=mehmoodulhaq570&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/mehmoodulhaq570?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmoodulhaq570&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehmoodulhaq570&theme=transparent&hide_border=true" height="165" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehmoodulhaq570&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <sub>If cards do not load, GitHub stats services may be temporarily rate-limited. Repositories are still available from my profile.</sub>
 </p>
 
 ---
 
-## Connect
+## &#128279; Connect
 
 <p align="center">
   <a href="https://github.com/mehmoodulhaq570">
