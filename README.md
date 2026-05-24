@@ -22,6 +22,9 @@
         <img src="https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET and C Sharp" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
       </p>
+      <p align="center">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" alt="Funny coder animation" />
+      </p>
     </td>
   </tr>
 </table>
