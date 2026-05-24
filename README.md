@@ -1,174 +1,99 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0E75B6,50:00C2A8,100:2F80ED&text=Mehmood%20Ul%20Haq&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Frontend%20Development&descAlignY=58&descSize=17" alt="Mehmood Ul Haq profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0E75B6,50:00C2A8,100:2F80ED&text=Mehmood%20Ul%20Haq&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Frontend%20Development&descAlignY=58&descSize=16" alt="Mehmood Ul Haq profile banner" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer working with code" width="420" />
-</p>
-
-<h1 align="center">Hi, I'm Engr. Mehmood Ul Haq</h1>
-
-<h3 align="center">Data Science Master's Student | AI/ML Engineer | Frontend Developer</h3>
-
-<p align="center">
-  <em>Building intelligent systems that bridge research, data science, and real-world engineering.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mehmoodulhaq570">
-    <img src="https://komarev.com/ghpvc/?username=mehmoodulhaq570&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/mehmoodulhaq570?tab=followers">
-    <img src="https://img.shields.io/github/followers/mehmoodulhaq570?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logo=pandas&logoColor=56B6C2" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Frontend-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend" />
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=Building+AI-powered+and+data-driven+products;Working+across+ML%2C+Computer+Vision%2C+and+Frontend;Turning+research+ideas+into+usable+software" alt="Typing animation" />
-</p>
-
----
-
-## &#128075; About
-
-**Master's in Data Science. AI/ML Engineer. Frontend Developer.**
-
-I build AI tools, data apps, computer vision systems, and clean frontend interfaces.
-
-**Quick highlights**
-
-- Data Science Lab researcher at KICS, UET Lahore
-- Working on NESPAK HR portal/frontend systems
-- Interested in AI, predictive modeling, energy forecasting, web systems, and cloud
-
-## &#9889; What I Do
-
-- AI/ML and data science projects
-- Computer vision with YOLO
-- Frontend development with React, Vue, and Tailwind
-- Dashboards, data cleaning, and visualization
-- APIs with Python and FastAPI
-
----
-
-## &#128640; Current Work
-
-| Project | What it is | Focus |
-| --- | --- | --- |
-| **NESPAK HR Portal** | Frontend redesign and system upgrade | Frontend, Data |
-| **Smart Fire System** | Fire detection with YOLOv11 and sensors | CV, IoT |
-| **Solar Forecasting** | ML-based solar prediction | Data Science |
-| **Datalyzer** | Dataset cleaning and visualization | Python |
-| **WifiX** | WiFi signal analysis and prediction | ML |
-| **SeoulMate** | AI companion concept | AI, NLP |
 
 <table>
   <tr>
-    <td>
-      <strong>&#128161; Currently Working On</strong><br /><br />
-      &#128187; NESPAK HR portal redesign<br />
-      &#128200; AI and energy forecasting research<br />
-      &#129504; Scalable ML and data-driven applications
+    <td width="28%" align="center" valign="top">
+      <img src="https://github.com/mehmoodulhaq570.png" width="180" alt="Mehmood Ul Haq" style="border-radius: 50%;" />
+      <h2>Mehmood Ul Haq</h2>
+      <p><strong>Data Science Master's Student</strong></p>
+      <p>AI/ML Engineer | Frontend Developer</p>
+      <p>Lahore, Pakistan</p>
     </td>
-    <td>
-      <strong>&#127919; Current Direction</strong><br /><br />
-      Clean interfaces, useful models, better data workflows, and production-ready AI tools.
+    <td width="72%" valign="top">
+      <h1>Hi, I'm Mehmood Ul Haq &#128075;</h1>
+      <p><em>Building intelligent systems that connect research, data science, and real-world engineering.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0E75B6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Data%20Science-16A34A?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Science" />
+        <img src="https://img.shields.io/badge/Frontend-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
+        <img src="https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET and C Sharp" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+      </p>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+</p>
+
 ---
 
-## &#11088; Featured Projects
+## &#127919; About Me
 
-| Project | Quick Note |
+- Master's student in **Data Science**
+- Researcher at **Data Science Lab (DSL), KICS UET Lahore**
+- Working as **GET Engineering Officer at NESPAK**
+- Modernizing the **NESPAK HR Portal**
+- Interests: **AI, predictive modeling, energy forecasting, web systems, cloud**
+
+---
+
+## &#128161; Currently Working On
+
+| Focus | Work |
 | --- | --- |
-| &#128200; **Energy Forecasting Using ML** | Short, medium, and long-term energy demand forecasting |
-| &#128187; **NESPAK HR Portal Redesign** | Modern frontend and system upgrade work |
-| &#128202; **Stock Price Prediction** | ML models for stock trend prediction and analysis |
-| &#127891; **Student Performance Predictor** | Academic performance prediction using ML classification |
+| NESPAK HR Portal | Full system upgrade and frontend improvement |
+| AI & Energy Forecasting | Research projects using ML and predictive modeling |
+| Scalable ML Apps | Data-driven applications with usable interfaces |
 
 ---
 
 ## &#128736; Tech Stack
 
-### Data Science & AI
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" height="42" alt="Data science and AI tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,react,vue,tailwind,js,ts,html,css,fastapi,nodejs,cs,dotnet,aws,gcp,git,github,linux,vscode" alt="Tech stack icons" />
 </p>
-
-### Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,js,ts,html,css" height="42" alt="Frontend tools" />
-</p>
-
-### Backend, Cloud & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,cpp,cs,git,github,aws,gcp,linux,vscode" height="42" alt="Backend cloud and tools" />
-</p>
-
----
-
-## &#128218; Growing In
-
-- Advanced data science
-- MLOps and deployment
-- Generative AI
-- Production frontend development
-
-## &#128172; Ask Me About
-
-- Data Science
-- Machine Learning
-- Computer Vision
-- React / Vue / Tailwind
-- Python / FastAPI
-
----
-
-## &#128202; GitHub Overview
-
-<table>
-  <tr>
-    <td><strong>Primary Focus</strong></td>
-    <td>Data Science, AI/ML, Frontend Development</td>
-  </tr>
-  <tr>
-    <td><strong>Main Languages</strong></td>
-    <td>Python, JavaScript, C#, SQL</td>
-  </tr>
-  <tr>
-    <td><strong>Project Areas</strong></td>
-    <td>Computer Vision, Forecasting, Dashboards, APIs</td>
-  </tr>
-</table>
 
 <p align="center">
-  <a href="https://github.com/mehmoodulhaq570">
-    <img src="https://github-readme-stats.vercel.app/api?username=mehmoodulhaq570&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub stats" />
-  </a>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
+</p>
+
+---
+
+## &#128193; Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **NESPAK HR Portal Redesign** | Modernizing HR portal workflows and interface | C#, ASP.NET, SQL Server |
+| **Energy Forecasting Using ML** | Short, medium, and long-term energy demand forecasting | Python, ML |
+| **Smart Fire System** | Fire detection with YOLOv11, sensors, and control logic | Computer Vision, IoT |
+| **Stock Price Prediction** | ML models for stock trend prediction and analysis | Python, Data Science |
+| **Student Performance Predictor** | Predicting academic performance using classification models | Python, ML |
+| **Datalyzer** | Dataset cleaning, analysis, and visualization toolkit | Python, Analytics |
+
+---
+
+## &#128202; GitHub Snapshot
+
+| Profile | Languages |
+| --- | --- |
+| Open-source learner and builder focused on AI, data, and frontend projects. | Python, JavaScript, TypeScript, C#, SQL, HTML, CSS |
+
+<p align="center">
   <a href="https://github.com/mehmoodulhaq570?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmoodulhaq570&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top languages" />
+    <img src="https://img.shields.io/badge/View%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehmoodulhaq570&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <sub>If cards do not load, GitHub stats services may be temporarily rate-limited. Repositories are still available from my profile.</sub>
+  <a href="https://github.com/mehmoodulhaq570">
+    <img src="https://komarev.com/ghpvc/?username=mehmoodulhaq570&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
 </p>
 
 ---
@@ -176,31 +101,23 @@ I build AI tools, data apps, computer vision systems, and clean frontend interfa
 ## &#128279; Connect
 
 <p align="center">
-  <a href="https://github.com/mehmoodulhaq570">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  </a>
   <a href="https://linkedin.com/in/mehmodulhaq570">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/mehmoodulhaq570">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+  <a href="mailto:mehmoodulhaq570@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://dev.to/mehmoodulhaq570">
-    <img src="https://skillicons.dev/icons?i=devto" height="40" alt="Dev.to" />
+  <a href="https://github.com/mehmoodulhaq570">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://kaggle.com/mehmoodulhaq570">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
-  </a>
-  <a href="https://instagram.com/mehmood02_">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="https://medium.com/@mehmoodulhaq570">
-    <img src="https://skillicons.dev/icons?i=medium" height="40" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <strong>Open to collaboration on AI, data science, computer vision, and frontend projects.</strong>
+  <strong>Open to collaboration on AI, ML, data science, frontend, and full-stack projects.</strong>
 </p>
