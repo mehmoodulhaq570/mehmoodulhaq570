@@ -1,0 +1,39 @@
+<svg width="360" height="360" viewBox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="52" y1="34" x2="314" y2="329" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E75B6"/>
+      <stop offset="0.55" stop-color="#00C2A8"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="jacket" x1="99" y1="230" x2="263" y2="344" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="180" cy="180" r="176" fill="url(#bg)"/>
+  <circle cx="180" cy="180" r="164" fill="#08111F" stroke="#38BDF8" stroke-width="3"/>
+
+  <path d="M74 318C85 264 126 232 180 232C234 232 275 264 286 318H74Z" fill="url(#jacket)"/>
+  <path d="M139 244L180 306L221 244C208 236 194 232 180 232C166 232 152 236 139 244Z" fill="#E5E7EB"/>
+  <path d="M158 252L180 306L202 252L180 269L158 252Z" fill="#0E75B6"/>
+
+  <ellipse cx="180" cy="158" rx="64" ry="75" fill="#F2C7A0"/>
+  <path d="M115 151C119 91 159 60 211 75C245 85 264 118 252 164C237 136 216 122 185 120C156 118 136 130 115 151Z" fill="#111827"/>
+  <path d="M126 136C134 94 170 72 214 82C195 93 171 103 153 119C143 128 136 134 126 136Z" fill="#1F2937"/>
+
+  <circle cx="154" cy="164" r="7" fill="#111827"/>
+  <circle cx="207" cy="164" r="7" fill="#111827"/>
+  <path d="M168 193C177 201 190 201 199 193" stroke="#7C2D12" stroke-width="6" stroke-linecap="round"/>
+  <path d="M179 171L171 184H186" stroke="#B7795E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="82" y="84" width="66" height="44" rx="10" fill="#0D1117" stroke="#38BDF8" stroke-width="3"/>
+  <text x="100" y="113" font-family="Consolas, monospace" font-size="20" font-weight="700" fill="#A7F3D0">AI</text>
+
+  <rect x="221" y="79" width="72" height="44" rx="10" fill="#0D1117" stroke="#A78BFA" stroke-width="3"/>
+  <text x="237" y="108" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#FDE68A">DS</text>
+
+  <path d="M84 222C72 210 72 190 84 178" stroke="#38BDF8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M276 222C288 210 288 190 276 178" stroke="#A78BFA" stroke-width="8" stroke-linecap="round"/>
+  <path d="M107 305C137 327 222 327 253 305" stroke="#00C2A8" stroke-width="5" stroke-linecap="round"/>
+</svg>

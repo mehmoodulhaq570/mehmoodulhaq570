@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="28%" align="center" valign="top">
-      <img src="https://github.com/mehmoodulhaq570.png" width="180" alt="Mehmood Ul Haq" style="border-radius: 50%;" />
+      <img src="./assets/profile-avatar.svg" width="190" alt="Mehmood Ul Haq illustrated avatar" />
       <h2>Mehmood Ul Haq</h2>
       <p><strong>Data Science Master's Student</strong></p>
       <p>AI/ML Engineer | Frontend Developer</p>
