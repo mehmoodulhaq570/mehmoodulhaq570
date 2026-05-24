@@ -11,12 +11,24 @@
 <h3 align="center">Data Science Master's Student | AI/ML Engineer | Frontend Developer</h3>
 
 <p align="center">
+  <em>Building intelligent systems that bridge research, data science, and real-world engineering.</em>
+</p>
+
+<p align="center">
   <a href="https://github.com/mehmoodulhaq570">
     <img src="https://komarev.com/ghpvc/?username=mehmoodulhaq570&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/mehmoodulhaq570?tab=followers">
     <img src="https://img.shields.io/github/followers/mehmoodulhaq570?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logo=pandas&logoColor=56B6C2" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Frontend-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend" />
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
 </p>
 
 <p align="center">
@@ -30,6 +42,12 @@
 **Master's in Data Science. AI/ML Engineer. Frontend Developer.**
 
 I build AI tools, data apps, computer vision systems, and clean frontend interfaces.
+
+**Quick highlights**
+
+- Data Science Lab researcher at KICS, UET Lahore
+- Working on NESPAK HR portal/frontend systems
+- Interested in AI, predictive modeling, energy forecasting, web systems, and cloud
 
 ## &#9889; What I Do
 
@@ -45,12 +63,38 @@ I build AI tools, data apps, computer vision systems, and clean frontend interfa
 
 | Project | What it is | Focus |
 | --- | --- | --- |
-| **NESPAK Project** | Practical data/frontend work | Frontend, Data |
+| **NESPAK HR Portal** | Frontend redesign and system upgrade | Frontend, Data |
 | **Smart Fire System** | Fire detection with YOLOv11 and sensors | CV, IoT |
 | **Solar Forecasting** | ML-based solar prediction | Data Science |
 | **Datalyzer** | Dataset cleaning and visualization | Python |
 | **WifiX** | WiFi signal analysis and prediction | ML |
 | **SeoulMate** | AI companion concept | AI, NLP |
+
+<table>
+  <tr>
+    <td>
+      <strong>&#128161; Currently Working On</strong><br /><br />
+      &#128187; NESPAK HR portal redesign<br />
+      &#128200; AI and energy forecasting research<br />
+      &#129504; Scalable ML and data-driven applications
+    </td>
+    <td>
+      <strong>&#127919; Current Direction</strong><br /><br />
+      Clean interfaces, useful models, better data workflows, and production-ready AI tools.
+    </td>
+  </tr>
+</table>
+
+---
+
+## &#11088; Featured Projects
+
+| Project | Quick Note |
+| --- | --- |
+| &#128200; **Energy Forecasting Using ML** | Short, medium, and long-term energy demand forecasting |
+| &#128187; **NESPAK HR Portal Redesign** | Modern frontend and system upgrade work |
+| &#128202; **Stock Price Prediction** | ML models for stock trend prediction and analysis |
+| &#127891; **Student Performance Predictor** | Academic performance prediction using ML classification |
 
 ---
 
@@ -94,6 +138,21 @@ I build AI tools, data apps, computer vision systems, and clean frontend interfa
 ---
 
 ## &#128202; GitHub Overview
+
+<table>
+  <tr>
+    <td><strong>Primary Focus</strong></td>
+    <td>Data Science, AI/ML, Frontend Development</td>
+  </tr>
+  <tr>
+    <td><strong>Main Languages</strong></td>
+    <td>Python, JavaScript, C#, SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Project Areas</strong></td>
+    <td>Computer Vision, Forecasting, Dashboards, APIs</td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/mehmoodulhaq570">
