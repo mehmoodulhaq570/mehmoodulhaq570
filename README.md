@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   </p>
   <p align="center">
-    <img src="./assets/funny-coder.gif" width="500" alt="Funny coder animation" />
+    <img src="./assets/funny-coder-optimized.gif" width="360" alt="Funny coder animation" />
   </p>
 </div>
 
