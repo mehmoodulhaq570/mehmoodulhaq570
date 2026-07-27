@@ -1,33 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0E75B6,50:00C2A8,100:2F80ED&text=Mehmood%20Ul%20Haq&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Frontend%20Development&descAlignY=58&descSize=16" alt="Mehmood Ul Haq profile banner" width="100%" />
-</p>
-
-<table>
-  <tr>
-    <td width="28%" align="center" valign="top">
-      <img src="./assets/profile-avatar.svg" width="190" alt="Mehmood Ul Haq illustrated avatar" />
-      <h2>Mehmood Ul Haq</h2>
-      <p><strong>Data Science Master's Student</strong></p>
-      <p>AI/ML Engineer | Frontend Developer</p>
-      <p>Lahore, Pakistan</p>
-    </td>
-    <td width="72%" valign="top">
-      <h1>Hola amigo! Cómo estás? 👋</h1>
-      <p><em>Building intelligent systems that connect research, data science, and real-world engineering.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0E75B6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-        <img src="https://img.shields.io/badge/Data%20Science-16A34A?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Science" />
-        <img src="https://img.shields.io/badge/Frontend-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
-        <img src="https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET and C Sharp" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-      </p>
-      <p align="center">
-        <img src="./assets/funny-coder.gif" width="500" alt="Funny coder animation" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h1>Hola amigo! Cómo estás? 👋</h1>
+  <p><em>Building intelligent systems that connect research, data science, and real-world engineering.</em></p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-0E75B6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/Data%20Science-16A34A?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Science" />
+    <img src="https://img.shields.io/badge/Frontend-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
+    <img src="https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET and C Sharp" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  </p>
+  <p align="center">
+    <img src="./assets/funny-coder.gif" width="500" alt="Funny coder animation" />
+  </p>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
