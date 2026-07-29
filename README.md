@@ -5,20 +5,12 @@
     <img src="https://img.shields.io/badge/Python-0E75B6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
     <img src="https://img.shields.io/badge/Data%20Science-16A34A?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Science" />
-    <img src="https://img.shields.io/badge/Frontend-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
     <img src="https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET and C Sharp" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   </p>
   <p align="center">
     <img src="./assets/funny-coder-optimized.gif" width="360" alt="Funny coder animation" />
   </p>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
-</p>
-
----
 
 ## &#127919; About Me
 
@@ -26,7 +18,7 @@
 - Researcher at **Data Science Lab (DSL), KICS UET Lahore**
 - Working as **GET Engineering Officer at NESPAK**
 - Modernizing the **NESPAK HR Portal**
-- Interests: **AI, predictive modeling, energy forecasting, web systems, cloud**
+- Interests: **AI, predictive modeling, energy forecasting, full-stack systems, and cloud**
 
 ---
 
@@ -63,8 +55,8 @@
 | **NESPAK HR Portal Redesign** | Modernizing HR portal workflows and interface | C#, ASP.NET, SQL Server |
 | **Energy Forecasting Using ML** | Short, medium, and long-term energy demand forecasting | Python, ML |
 | **Smart Fire System** | Fire detection with YOLOv11, sensors, and control logic | Computer Vision, IoT |
-| **SeoulMate** | AI-powered K-drama recommendation and personalized companion system | AI, NLP, Recommender System |
-| **WifiX** | Same-network file transfer app with WiFi-focused workflow | React, Python, FastAPI |
+| **SeoulMate** | AI-powered K-drama recommendation and personalized companion system | AI, NLP |
+| **WifiX** | Same-network file transfer app with a clean transfer workflow | React, Python, FastAPI |
 | **Datalyzer** | Dataset cleaning, analysis, and visualization toolkit | Python, Analytics |
 
 ---
@@ -73,7 +65,7 @@
 
 | Profile | Languages |
 | --- | --- |
-| Open-source learner and builder focused on AI, data, and frontend projects. | Python, JavaScript, TypeScript, C#, SQL, HTML, CSS |
+| Builder focused on AI, data science, frontend, and full-stack systems. | Python, JavaScript, TypeScript, C#, SQL, HTML, CSS |
 
 <p align="center">
   <a href="https://github.com/mehmoodulhaq570?tab=repositories">
